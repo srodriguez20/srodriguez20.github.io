@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://profiles.hugerdev.com/sitemap.xml
-Host: https://profiles.hugerdev.com
+Sitemap: https://srodriguez20.github.io/sitemap.xml
+Host: https://srodriguez20.github.io
